@@ -1,6 +1,12 @@
+## 🚀 Live Demo
+
+[View the GameCraft AI Assistant here](https://gamecraft-ai-assistant-git-master-divyaprakash-das-projects.vercel.app/)
+
+
 # Welcome to Game Assist
 
 This is a game development assistance project that helps you write and improve game code.
+
 
 ## Getting Started
 
